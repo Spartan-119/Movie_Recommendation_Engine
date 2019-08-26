@@ -1,2 +1,2 @@
 # Movie_Recommendation_Engine
-In this project, I had attempted to understand the content based kind of recommendation systems and compare their performance on the movie_dataset.
+In this project, I have built a recommendation engine that recommend movies in the descending order of user's likeliness to watch based on user's already watched movie.
